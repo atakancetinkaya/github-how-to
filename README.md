@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/atakancetinkaya/github-how-to/blob/main/logo_by_a-cetinkaya.png">
-    <img src="https://github.com/atakancetinkaya/github-how-to/blob/main/logo_by_a-cetinkaya.png alt="Logo" width="200" height="200">
+    <img src="https://github.com/atakancetinkaya/github-how-to/blob/main/logo_by_a-cetinkaya.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">My Github Guide</h3>
