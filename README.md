@@ -143,15 +143,15 @@ LEGEND:
 
 ---
 
-<img src="https://github.com/Compel-Informatics/kkvbl-website/blob/main/readme_extension/index_1.png" alt="SS-1">
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.20.png" alt="SS-1">
 
 - Keep in Mind you can only choose one of the Services at a time to Deploy it. The Jupyter Notebook is Deployed by default.
 
-<img src="https://github.com/Compel-Informatics/kkvbl-website/blob/main/readme_extension/index_2.png" alt="SS-2">
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.39.png" alt="SS-2">
 
 - After choosing and clicking on Deploy you will be redirected to the deploy Page where you can click on the localhost link after uploading.
 
-<img src="https://github.com/Compel-Informatics/kkvbl-website/blob/main/readme_extension/index_3.png" alt="SS-3">
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.58.22.png" alt="SS-3">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
