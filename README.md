@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Compel-Informatics/ldhp-default/index_1.png">
+  <a href="https://github.com/atakancetinkaya/github-how-to/blob/main/logo_by_a-cetinkaya.png">
     <img src="" alt="Logo" width="240" height="200">
   </a>
 
@@ -130,7 +130,7 @@ git push
 
 1.8) The Folder "step_v1_8_github_repo_guide" shows you the exact executed commands on the Shell:
 
-<a href="https://github.com/Compel-Informatics/ldhp-backend">ldhp-backend</a>
+<a href="https://github.com/atakancetinkaya/github-how-to/blob/main/step_v1_8_github_repo_guide/step_v1_8_github_repo_guide.pdf">step_v1_8_github_repo_guide</a>
 
 ---
 
