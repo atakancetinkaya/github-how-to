@@ -33,13 +33,11 @@
     <li>
       <a href="#about-the-project">My GitHub Content</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -64,7 +62,9 @@ Use the `README.md` to get started.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your local GitHub Repo and use git commands
+This is an example of how you may give instructions on setting up your local GitHub Repo and use git commands:
+
+---
 
 1.0) Create the Directory "github_kkvbl" inside of "Compel/customers/work/kkvbl/" Directories:
 
@@ -138,25 +138,21 @@ LEGEND:
 
 < > = Those are symbols to <REFERE> to something, more like to explain
 
----
-
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.20.png" alt="SS-1">
-
-- Keep in Mind you can only choose one of the Services at a time to Deploy it. The Jupyter Notebook is Deployed by default.
-
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.39.png" alt="SS-2">
-
-- After choosing and clicking on Deploy you will be redirected to the deploy Page where you can click on the localhost link after uploading.
-
-<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.58.22.png" alt="SS-3">
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-I do explain in my own Words, how to create a Repository, add data, commit data and how to push that data to GitHub.
+- This can be seen as the step "1.8)" which is at "Getting Started" Chapter
+
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.20.png" alt="SS-1">
+
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.57.39.png" alt="SS-2">
+
+<img src="https://github.com/atakancetinkaya/github-how-to/blob/main/timestamp_ss/Screenshot%202023-05-10%20at%2010.58.22.png" alt="SS-3">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,8 +175,3 @@ On this space you will find a list of resources which can be helpful.
 - [README.md](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/atakancetinkaya
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/atakan-%C3%A7etinkaya-28a34b226/
