@@ -16,9 +16,6 @@
 
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -26,7 +23,7 @@
     <img src="" alt="Logo" width="240" height="200">
   </a>
 
-  <h3 align="center">My GitHub Guide</h3>
+  <h3 align="center">My Github Guide</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
