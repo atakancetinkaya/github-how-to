@@ -12,6 +12,8 @@
 
 #### Version: v1.0
 
+---
+
 <!-- PROJECT SHIELDS -->
 
 <a name="readme-top"></a>
