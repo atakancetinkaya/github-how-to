@@ -103,7 +103,7 @@ cd <WHAT EVER THE NAME OF YOUR GITHUB REPOSITORY IS>
 1.4) Now add manually the Files you want to "Push" over the "UI" or "Terminal" into the cloned Repo:
 
 ```sh
-<Over drag and drop into the Cloned Repository / Or with the "mv" command through the Terminal
+<Over drag and drop into the Cloned Repository / Or with the "mv" command through the Terminal>
 ```
 
 ---
@@ -139,6 +139,16 @@ git push
 LEGEND:
 
 < > = Those are symbols to <REFERE> to something, more like to explain
+
+---
+
+## Troubleshooting Git command's
+
+1.0) This command will replay your local commits on top of the remote branch, which will result in a linear history.
+
+```sh
+git pull --rebase
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
