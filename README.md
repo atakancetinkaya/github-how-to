@@ -180,7 +180,7 @@ git config pull.rebase true
 
 Your Name - [LinkedIn](https://www.linkedin.com/in/atakan-%C3%A7etinkaya-28a34b226/) - atakan.cetinkaya01@gmail.com
 
-Project Link: [https://github.com/Compel-Informatics/how-to-use-github](https://github.com/Compel-Informatics/how-to-use-github)
+Project Link: [https://github.com/atakancetinkaya/github-how-to](https://github.com/atakancetinkaya/github-how-to)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
