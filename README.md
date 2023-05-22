@@ -150,6 +150,12 @@ LEGEND:
 git pull --rebase
 ```
 
+1.1) This command is like the same above, the only difference is the authentication flag, which is used for the command at "1.1)"
+
+```sh
+git config pull.rebase true
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
