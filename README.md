@@ -114,6 +114,8 @@ cd <WHAT EVER THE NAME OF YOUR GITHUB REPOSITORY IS>
 git status
 ```
 
+---
+
 1.6) With "git status" you could see what is updated, but now do a "git add ." adding all Files:
 
 ```sh
