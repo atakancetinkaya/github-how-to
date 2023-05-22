@@ -150,7 +150,7 @@ LEGEND:
 git pull --rebase
 ```
 
-1.1) This command is like the same above, the only difference is the authentication flag, which is used for the command at "1.1)"
+1.1) This command is like the same above, the only difference is the authentication flag, which is used for the command at "1.0)"
 
 ```sh
 git config pull.rebase true
