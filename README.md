@@ -114,7 +114,7 @@ cd <WHAT EVER THE NAME OF YOUR GITHUB REPOSITORY IS>
 git status
 ```
 
-1.5.1) With "git status" you could see what is updated, but now do a "git add ." adding all Files:
+1.6) With "git status" you could see what is updated, but now do a "git add ." adding all Files:
 
 ```sh
 git add .
@@ -122,7 +122,7 @@ git add .
 
 ---
 
-1.6) Through the command "git commit -m "text" you can create an commit text before your "Push":
+1.7) Through the command "git commit -m "text" you can create an commit text before your "Push":
 
 ```sh
 git commit -m "EXAMPLE TEXT IN HERE"
@@ -130,7 +130,7 @@ git commit -m "EXAMPLE TEXT IN HERE"
 
 ---
 
-1.7) After doing your commitment, you should be able to do an "Push" to upload all Files on the Repo:
+1.8) After doing your commitment, you should be able to do an "Push" to upload all Files on the Repo:
 
 ```sh
 git push
@@ -138,7 +138,7 @@ git push
 
 ---
 
-1.8) The Folder "step_v1_8_github_repo_guide" shows you the exact executed commands on the Shell:
+1.9) The Folder "step_v1_8_github_repo_guide" shows you the exact executed commands on the Shell:
 
 <a href="https://github.com/atakancetinkaya/github-how-to/blob/main/step_v1_8_github_repo_guide/step_v1_8_github_repo_guide.pdf">step_v1_8_github_repo_guide</a>
 
@@ -146,7 +146,7 @@ git push
 
 LEGEND:
 
-< > = Those are symbols to <REFERE> to something, more like to explain
+< > = Those are symbols to <REFERE> to something.
 
 ---
 
