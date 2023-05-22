@@ -108,7 +108,13 @@ cd <WHAT EVER THE NAME OF YOUR GITHUB REPOSITORY IS>
 
 ---
 
-1.5) With "git status" you could see what is updated, but now do a "git add ." adding all Files:
+1.5) With this command you will be able to see all modified, deleted or added new files:
+
+```sh
+git status
+```
+
+1.5.1) With "git status" you could see what is updated, but now do a "git add ." adding all Files:
 
 ```sh
 git add .
@@ -121,6 +127,8 @@ git add .
 ```sh
 git commit -m "EXAMPLE TEXT IN HERE"
 ```
+
+---
 
 1.7) After doing your commitment, you should be able to do an "Push" to upload all Files on the Repo:
 
